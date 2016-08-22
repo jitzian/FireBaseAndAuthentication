@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653690542686",
+    "firebase_url": "https://elkiman-b208b.firebaseio.com",
+    "project_id": "elkiman-b208b",
+    "storage_bucket": "elkiman-b208b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653690542686:android:dbd4eb08fc39441b",
+        "android_client_info": {
+          "package_name": "com.mac.training.data1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653690542686-4tbl1ktmdtpchludre8guckkc36nfarm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-sDeoprKuwOPQHkSD48dVujGGPNr8U3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
